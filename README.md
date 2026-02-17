@@ -1,3 +1,5 @@
+<a href="https://fedorov.net"><img src="https://img.shields.io/badge/🌐-fedorov.net-1a1a2e?style=flat-square" /></a> <a href="https://x.com/2mf"><img src="https://img.shields.io/badge/-Follow_%402mf-1a1a2e?style=flat-square&logo=x&logoColor=white&labelColor=000000" /></a>
+<br>
 <img src="https://img.shields.io/badge/DevOps-20%2B_years-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/AS26954-BGP-4AB197?style=flat-square" /> <img src="https://img.shields.io/badge/based_in-Israel-1a1a2e?style=flat-square" />
 
 ## Mihail «Kolo» Fedorov
@@ -19,7 +21,5 @@ I run my own [autonomous system](https://fedorov.net/as26954/), build things tha
 ---
 
 *Infrastructure should be boring. If you're thinking about it, something went wrong.*
-
-<a href="https://fedorov.net">fedorov.net</a> · <a href="https://x.com/2mf"><img src="https://img.shields.io/twitter/follow/2mf?style=flat-square&logo=x&logoColor=white&label=follow&color=1a1a2e" alt="Follow @2mf" /></a>
 
 <a href="https://88x31.lol"><img src="https://88x31.lol/button-white.gif" alt="88x31" width="88" height="31" /></a>

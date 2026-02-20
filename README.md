@@ -20,6 +20,9 @@ I run my own [autonomous system](https://fedorov.net/as26954/), build things tha
 
 ---
 
-*Infrastructure should be boring. If you're thinking about it, something went wrong.*
+```
+🔑 4C9E 36CC 4428 74D5 D7D4  DF90 F92D 8E91 3498 B59C
+```
+<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/4C9E36CC442874D5D7D4DF90F92D8E913498B59C"><img src="https://img.shields.io/badge/PGP-public_key-1a1a2e?style=flat-square&logo=gnuprivacyguard&logoColor=white" /></a>
 
 <a href="https://88x31.lol"><img src="https://88x31.lol/button-white.gif" alt="88x31" width="88" height="31" /></a>
